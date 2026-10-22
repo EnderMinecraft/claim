@@ -1,8 +1,9 @@
 <!--
-Thanks for being here. Most PRs in this repo are page claims - delete the
-section that doesn't apply. Claiming a page? Title your PR
-"Claim <name>.got-a.page" (for example "Claim owen.got-a.page") so claim
-PRs stay easy to scan.
+Title your PR "Claim <name>.got-a.page" (for example "Claim owen.got-a.page")
+so claim PRs stay easy to scan.
+
+Changing the project itself instead (scripts, validation, CI, docs)? Add
+&template=improvement.md to this page's URL and reload to switch templates.
 -->
 
 ## Claiming or changing a page
@@ -11,12 +12,7 @@ PRs stay easy to scan.
 - I confirm the GitHub account opening this PR is the `owner.github` in my file.
 - I understand everything in this repo is public.
 
-## Changing the project itself
-
-- What does this change and why?
-- `npm test` passes locally.
-
 <!--
-The checker bot will review your file within a minute and tell you exactly
-what your page will do. If it asks for a fix, just push another commit here.
+Validation checks review your file within a minute and report back on this
+PR. If a check asks for a fix, push another commit here and the PR updates.
 -->

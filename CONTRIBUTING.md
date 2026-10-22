@@ -46,6 +46,9 @@ contributors, and maintainers are happy to help.
 - **Docs and translations**: just as welcome as code.
 - **Design**: themes and page templates have their own guide in the renderer
   repo once Phase 2 opens them up.
+- **PR template**: the default template is written for page claims. For
+  project changes, add `&template=improvement.md` to the "Open a pull
+  request" page URL and reload to switch templates.
 
 Please follow the [Code of Conduct](CODE_OF_CONDUCT.md). In short: be warm,
 assume good intent, celebrate beginners.
