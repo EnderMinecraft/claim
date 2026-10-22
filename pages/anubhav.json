@@ -1,0 +1,18 @@
+{
+  "mode": "instant",
+  "owner": {
+    "github": "anubhav-1207"
+  },
+  "page": {
+    "type": "person",
+    "title": "Notes From The Stack",
+    "theme": "forest",
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/anubhav-1207"
+      }
+    ]
+  },
+  "showcase": true
+}
