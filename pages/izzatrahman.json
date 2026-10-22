@@ -1,0 +1,28 @@
+{
+  "mode": "instant",
+  "owner": {
+    "github": "IzzatnotIzzati"
+  },
+  "page": {
+    "type": "person",
+    "title": "Izzat Rahman",
+    "theme": "forest",
+    "links": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/IzzatnotIzzati"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/izzat-rahman-8538293a9"
+      }
+    ],
+    "sections": [
+      {
+        "heading": "About",
+        "text": "Still aspiring to be whatever sysadmins are called nowadays."
+      }
+    ]
+  },
+  "showcase": true
+}
