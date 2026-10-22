@@ -1,0 +1,12 @@
+{
+  "mode": "instant",
+  "owner": { "github": "silas229" },
+  "page": {
+    "type": "person",
+    "title": "Silas",
+    "avatar": "https://github.com/silas229.png",
+    "theme": "sunrise",
+    "links": [{ "label": "GitHub", "url": "https://github.com/silas229" }],
+    "sections": []
+  }
+}
